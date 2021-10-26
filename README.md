@@ -12,4 +12,4 @@ Attached in this repository is the Jupyter Notebooks that were used to clean, me
 
 See the project brief here: [Project Brief](https://github.com/eriesberg/Unemployment_Analysis/blob/main/A6_Data_Project_Brief.pdf)
 
-See the visualizations here: [Tableau Storyboard](https://public.tableau.com/app/profile/eric.riesberg/viz/UnemploymentProject_16328850340240/Unemployment?publish=yes)
+See the visualizations here: [Tableau Storyboard](https://public.tableau.com/app/profile/eric.riesberg/viz/UnemploymentProject_16328850340240/Story2?publish=yes)
