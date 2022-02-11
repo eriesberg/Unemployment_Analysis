@@ -6,7 +6,7 @@
 
 The project brief required that the data must be sourced by the analyst, and not provided.  Using some U.S. government databases, two datasets were captured; Unemployment and Government Benefits.
 
-The datasets had a granularity on the annual and county levels.  My goal was to try and find a relationship between une0mployment rate and governmental benefits.  This information could be useful in understanding how the government should react when there are times of greateer or less unemployment.
+The datasets had a granularity on the annual and county levels.  My goal was to try and find a relationship between unemployment rate and governmental benefits.  This information could be useful in understanding how the government should react when there are times of greateer or less unemployment.
 
 Attached in this repository is the Jupyter Notebooks that were used to clean, merge, and evaluate the data.
 
